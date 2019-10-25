@@ -133,7 +133,7 @@
 								<td>Maçã</td>
 								<td>Lorem ipsum dolor sit amet, consectetur adipiscing</td>
 								<td>R$ 2,00</td>
-								<td>98</td>
+								<td class="text-center">98</td>
 								<td>25/10/2019</td>
 								<td class="actions">
 									<a class="btn btn-warning btn-xs" href="edit.html">Editar</a>
@@ -144,7 +144,7 @@
 								<td>Morango</td>
 								<td>Lorem ipsum dolor sit amet, Strawberry consectetur adipiscing</td>
 								<td>R$ 4,00</td>
-								<td>27</td>
+								<td class="text-center">27</td>
 								<td>24/10/2019</td>
 								<td class="actions">
 									<a class="btn btn-warning btn-xs" href="edit.html">Editar</a>
@@ -155,7 +155,18 @@
 								<td>Laranja</td>
 								<td>Lorem ipsum dolor sit amet, Orange consectetur adipiscing</td>
 								<td>R$ 3,00</td>
-								<td>64</td>
+								<td class="text-center">64</td>
+								<td>21/10/2019</td>
+								<td class="actions">
+									<a class="btn btn-warning btn-xs" href="edit.html">Editar</a>
+									<a class="btn btn-danger btn-xs"  href="#" onclick="excluir(this)">Excluir</a>
+								</td>
+							</tr>
+							<tr id="1004">
+								<td>Banana</td>
+								<td>Lorem ipsum dolor sit amet, Banana consectetur adipiscing</td>
+								<td>R$ 5,00</td>
+								<td class="text-center">88</td>
 								<td>21/10/2019</td>
 								<td class="actions">
 									<a class="btn btn-warning btn-xs" href="edit.html">Editar</a>
